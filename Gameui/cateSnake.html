@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game Selector</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+  <!-- Navigat4ion Part-->
+  <section class="navcontent">
+  <aside>
+    <div class="navigation">
+      <ul>
+        <li>
+          <a href="#">
+            <span class="icon"><span class="material-symbols-outlined">
+                sports_esports
+              </span></span>
+            <span class="title">
+              Dashboard
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="icon">
+              <span class="material-symbols-outlined">
+                sports_volleyball
+              </span>
+            </span>
+            <span class="title">
+              Ball
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="icon"><span class="material-symbols-outlined">
+                directions_run
+              </span></span>
+            <span class="title">
+              Sport
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="icon"><span class="material-symbols-outlined">
+                crossword
+              </span></span>
+            <span class="title">
+              Board
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="#" id="birdBtn">
+            <span class="icon"><span class="material-symbols-outlined">
+                raven
+              </span></span>
+            <span class="title">
+              Bird
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="file:///home/rahul/Server/apache-tomcat-10.1.15/webapps/MajorProject/Gameui/cateSnake.html">
+            <span class="icon"><span class="material-symbols-outlined">
+                emoji_nature
+              </span>
+            </span></span>
+            <span class="title">
+              Snake
+            </span>
+          </a>
+        </li>
+      </ul>
+      <div class="toggle"></div>
+    </div>
+  </aside>
+  <!--Finish Navigation-->
+
+  <!-----=---Header Part------->
+  <header>
+    <div class="logo"> 🏁GameDome </div>
+    <nav>
+      <ul>
+        <li><a href="#allgames">All Games</a></li>
+      </ul>
+
+    </nav>
+    <div class="searchBar">
+          <input type="text" placeholder="🔍Search for games..." id="searchInput" >
+    </div>
+    <div class="profile">Profile</div>
+  </header>
+</section>
+  <!-------------Header Finish------------>
+
+  <!--Body PArt-->
+  <h1>🎀SnakeGames</h1>
+  <div class="body">
+    <div id="root">
+    </div>
+  </div>
+
+  <!--Footer Part-->
+  <footer>
+    <p>&copy; 2024 R&R </p>
+  </footer>
+  <script src="index.js"></script>
+
+
+  <!--NAvigation Bar Script-->
+  <script>
+    let navigation = document.querySelector('.navigation');
+    let toggle = document.querySelector('.toggle')
+    toggle.onclick = function () {
+      navigation.classList.toggle('active');
+}
+
+  </script>
+
+</html>

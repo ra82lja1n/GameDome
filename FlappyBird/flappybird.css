@@ -1,0 +1,11 @@
+ 
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("/Gameui/Gaming_b56062f55a.svg");
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+}
