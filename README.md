@@ -8,49 +8,49 @@
 ## 📸 Screenshots
 
 ### 🟢 Login Page
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/LoginPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/LoginPage.png?raw=true" width="3000">
 
 ---
 
 ### 🖥️ Dashboard Page
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/DashBoardPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/DashBoardPage.png?raw=true" width="3000">
 
 ---
 
 ### 🏆 Leaderboard Page
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/LeaderBoardPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/LeaderBoardPage.png?raw=true" width="3000">
 
 ---
 
 ## 🕹️ Games
 
 ### 🐦 Flappy Bird
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/FlappyBirdPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/FlappyBirdPage.png?raw=true" width="3000">
 
 ---
 
 ### ❓ Quiz Game
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/QuizPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/QuizPage.png?raw=true" width="3000">
 
 ---
 
 ### 🐍 Snake Game
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/SnakeGamePage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/SnakeGamePage.png?raw=true" width="3000">
 
 ---
 
 ### 💣 Minesweeper
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/MineSweeperPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/MineSweeperPage.png?raw=true" width="3000">
 
 ---
 
 ### 👾 Space Invaders
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/SpaceInvadersPage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/SpaceInvadersPage.png?raw=true" width="3000">
 
 ---
 
 ### 👤 Profile Page
-<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/ProfilePage.png?raw=true" width="600">
+<img src="https://github.com/ra82lja1n/GameDome/blob/main/Assets/ProfilePage.png?raw=true" width="3000">
 
 ---
 
